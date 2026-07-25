@@ -336,5 +336,5 @@ footer .brand-text{color:#cdd6e2;}
   .zone-grid{grid-template-columns:1fr;}
   .contact-panel{grid-template-columns:1fr;}
   .contact-left,.contact-right{padding:40px 28px;}
-  .footer-links{display:flex;flex-direction: column;gap:10px;}
+  .footer-links{display:flex;flex-direction: column;gap:10px; padding: 0 0;}
 }
